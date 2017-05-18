@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box; /* when i say 100px i mean 100px */
+}
+
+body .title{
+  /*border-bottom: 2px solid black;*/
+  color: black;
+  font-family: "Microsoft MS Sans Serif";
+  text-align: center;
+   padding: 5%;
+}
+
+body .container > div {
+  display: inline-block;
+  position: relative;
+  left:6%;
+  top:5%;
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  float: left;
+  /*background: skyblue;*/
+}
+
+body .container {
+  width: 310px;
+  height: 310px;
+  margin: 0 auto;
+}
+
+body {
+  background-image: url("https://happymacs.files.wordpress.com/2015/08/softwindows-95-desktop.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  margin: auto;;
+}
+
+#btnReset {
+  display: inline-block;
+  position: relative;
+  top: 80px;
+  left: 115px;
+  height: 50px;
+  width: 100px;
+  font-size: 20px;
+  border: solid;
+}
+
+input {
+  width: 100px;
+  height: 100px;
+  border: none;
+  font-size: 70px;
+  overflow: hidden;
+  color: black;
+}
+
+#btn1 {
+  background-color: #3c4ca3;
+  border: solid;
+}
+
+#btn2 {
+  background-color:	#9690bc;
+  border: solid;
+}
+
+#btn3 {
+  background-color:	#34c7b6;
+  border: solid;
+}
+
+#btn4 {
+  background-color: #774a77;
+  border: solid;
+}
+
+#btn5 {
+  background-color: #a3c459;
+  border: solid;
+}
+
+#btn6 {
+  background-color: #fbb04b;
+  border: solid;
+}
+
+#btn7 {
+  background-color: #fdd048;
+  border: solid;
+}
+
+#btn8 {
+  background-color: #e067a1;
+  border: solid;
+}
+
+#btn9 {
+  background-color: #00a15b;
+  border: solid;
+}
