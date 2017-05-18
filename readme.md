@@ -38,4 +38,4 @@ I tried to make the reset button but it is not reloading the page. When a player
   * Score chart for player winnings
   * Timer for player movement input
 
-  [Play my rad game and enjoy! :P](https://helminems.github.io/tic_tac_toe/tic_toe.html).
+  [Play my rad game and enjoy! :P](https://helminems.github.io/roo_bix_cue/index.html).
